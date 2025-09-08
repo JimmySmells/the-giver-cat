@@ -7,6 +7,7 @@
     pointer-events: auto;
 }
   body {
+      background: white;
       text-align: center;
       display: flex;
       flex-direction: row;
