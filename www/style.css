@@ -6,6 +6,9 @@
     -moz-user-select: none;
     pointer-events: auto;
 }
+html{
+    background: white;
+}
   body {
       background: white;
       text-align: center;
